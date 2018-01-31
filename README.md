@@ -1,1 +1,6 @@
 # Handwriting_Recognition-
+Run- To run the application open file RecogChar.java and run.
+Abstract of the project
+This system is a skeleton system which implements the idea of recognizing user-drawn English language alphabets and converting it into text input.
+Such a system will be very useful for providing the user with a quick and convenient way of providing input with an increase in usage of handheld devices. The biggest application would be processing of handwritten documentation like forms and cheques. For big organizations, such documentations which are received in bulks and existence of handwriting recognition systems can speed up the processing step by leaps and bounds.
+This skeleton system has two parts: The interface and the algorithm. The interface designed in Java Swing and consists of a basic applet window for user input and other interaction. The algorithm receives the handwritten input and recognizes the character using Kohonen Neural Network. The recognition process consists of 3 stages layer: Input layer, Training Layer and Hidden Layer. The system can also be provided with an input and a corresponding letter and trained to learn it so that it can recognize that letter too.
